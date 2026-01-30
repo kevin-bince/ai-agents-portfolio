@@ -46,5 +46,4 @@ Deterministic Logic Engine (The "Math Brain")
 Conversational UX & Secure Logic Gates
 - Gatekeeper Security: Designed a secure entry-point node with passphrase validation to simulate enterprise access controls.
 - Deterministic Flow Design: Built a branched logic tree in Botpress to handle "Standard" vs "Custom" user paths, ensuring data is collected only when necessary.
-
-Lead Conversion Funnel: Integrated an automated fallback flow for unauthorized users to capture lead data (Name, Intent, Email), demonstrating a strategic approach to user acquisition.
+- Lead Conversion Funnel: Integrated an automated fallback flow for unauthorized users to capture lead data (Name, Intent, Email), demonstrating a strategic approach to user acquisition.
